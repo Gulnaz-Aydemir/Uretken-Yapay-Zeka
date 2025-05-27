@@ -60,11 +60,4 @@ Amaç; yaratıcı yazarlar, müzisyenler ve içerik üreticileri gibi kullanıc�
 - [Python Docs](https://docs.python.org)  
 - [Flask Docs](https://flask.palletsprojects.com)  
 - Medium ve Towards Data Science blog yazıları  
-- `songs1.txt` – Kullanılan şarkı verisi  
-
----
-
-Hazırsa bu dosyayı `README.md` olarak proje dizinine koyabilirsin.  
-İstersen buna `GIF demo`, `screen görüntüsü`, `kurulum talimatı` gibi ek başlıklar da ekleyebilirim.
-
-Yeterli mi, yoksa bir de *Nasıl Kurulur?* bölümü ekleyeyim mi?
+- `songs1.txt` – Kullanılan şarkı verisi
