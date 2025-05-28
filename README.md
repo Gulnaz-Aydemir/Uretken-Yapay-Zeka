@@ -8,11 +8,11 @@ Amaç; yaratıcı yazarlar, müzisyenler ve içerik üreticileri gibi kullanıc�
 
 ## ⚙️ Özellikler
 
-- 🎯 Anahtar kelimeye göre özgün şarkı sözü üretimi  
-- 📌 Girilen kelime mutlaka ilk satırda yer alır  
-- 🧠 Veri kümesinde olmayan kelimeler için en yakın eşleşme bulunur  
-- 💻 Web arayüzü sade, kullanıcı dostu ve mobil uyumludur  
-- 🔒 Dış servis veya API kullanımı yok – tamamen yerel çalışır  
+- 🎯 Anahtar kelimeye göre özgün şarkı sözü üretimi yapar. 
+- 📌 Girilen kelime mutlaka ilk satırda yer alır.  
+- 🧠 Veri kümesinde olmayan kelimeler için en yakın eşleşme bulunur.  
+- 💻 Web arayüzü sade, kullanıcı dostu ve mobil uyumludur.  
+- 🔒 Dış servis veya API kullanımı yok – tamamen yerel çalışır. 
 
 ## 🛠 Kullanılan Teknolojiler
 
@@ -61,3 +61,7 @@ Amaç; yaratıcı yazarlar, müzisyenler ve içerik üreticileri gibi kullanıc�
 - [Flask Docs](https://flask.palletsprojects.com)  
 - Medium ve Towards Data Science blog yazıları  
 - `songs1.txt` – Kullanılan şarkı verisi
+- 'songs2.txt' - Kullanılan şarkı verisi
+- 'songs3.txt' - Kullanılan şarkı verisi
+- 'songs4.txt' - Kullanılan şarkı verisi
+- 'songs5.txt' - Kullanılan şarkı verisi
