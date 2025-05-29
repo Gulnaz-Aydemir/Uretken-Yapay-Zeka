@@ -41,7 +41,6 @@ Amaç; yaratıcı yazarlar, müzisyenler ve içerik üreticileri gibi kullanıc�
 Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1.  **Projeyi Klonlayın:**
-    Öncelikle, projenin GitHub deposunu bilgisayarınıza klonlayın. Eğer projenin bir GitHub deposu varsa, aşağıdaki gibi bir komut kullanabilirsiniz (URL'yi kendi projenizin adresiyle değiştirmeyi unutmayın):
     ```bash
     git clone https://github.com/Gulnaz-Aydemir/Uretken-Yapay-Zeka
     cd Uretken-Yapay-Zeka
