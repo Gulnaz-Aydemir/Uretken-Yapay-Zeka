@@ -34,7 +34,36 @@ Amaç; yaratıcı yazarlar, müzisyenler ve içerik üreticileri gibi kullanıc�
 - Flask tabanlı web uygulaması  
 - Şarkı verisi `songs1.txt` dosyasından okunur  
 - Markov modeli bellekte çalışır, her istek sonrası yeni üretim yapılır  
-- Veritabanı kullanılmaz  
+- Veritabanı kullanılmaz
+
+## 🚀 Nasıl Kullanılır?
+
+Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+
+1.  **Projeyi Klonlayın:**
+    Öncelikle, projenin GitHub deposunu bilgisayarınıza klonlayın. Eğer projenin bir GitHub deposu varsa, aşağıdaki gibi bir komut kullanabilirsiniz (URL'yi kendi projenizin adresiyle değiştirmeyi unutmayın):
+    ```bash
+    git clone [https://github.com/KULLANICI_ADINIZ/PROJE_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/PROJE_ADINIZ.git)
+    cd PROJE_ADINIZ
+    ```
+    Eğer dosyalar zaten bilgisayarınızdaysa bu adımı atlayabilirsiniz.
+
+2.  **Gerekli Kütüphaneleri Yükleyin:**
+    Projenin çalışabilmesi için Python 3.x ve Flask kütüphanesinin kurulu olması gerekmektedir. Eğer sisteminizde Flask kurulu değilse, terminal veya komut istemcisi üzerinden aşağıdaki komut ile yükleyebilirsiniz:
+    ```bash
+    pip install Flask
+    ```
+
+3.  **Uygulamayı Çalıştırın:**
+    Proje dosyalarının bulunduğu ana dizindeyken (yani `app.py` dosyasının olduğu yerde) aşağıdaki komutu terminalde veya komut istemcisinde çalıştırarak Flask geliştirme sunucusunu başlatın:
+    ```bash
+    python app.py
+    ```
+
+4.  **Tarayıcıda Açın:**
+    Uygulama başarıyla başlatıldığında, terminalde genellikle şöyle bir mesaj görürsünüz:
+    `* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)`
+    Bu durumda, web tarayıcınızı açıp adres çubuğuna `http://127.0.0.1:5000/` yazarak şarkı sözü üretme arayüzüne erişebilirsiniz.
 
 ## 📅 Geliştirme Planı
 
