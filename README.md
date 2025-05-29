@@ -88,7 +88,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 - [Flask Docs](https://flask.palletsprojects.com)  
 - Medium ve Towards Data Science blog yazıları  
 - `songs1.txt` – Kullanılan şarkı verisi
-- 'songs2.txt' - Kullanılan şarkı verisi
-- 'songs3.txt' - Kullanılan şarkı verisi
-- 'songs4.txt' - Kullanılan şarkı verisi
-- 'songs5.txt' - Kullanılan şarkı verisi
+- `songs2.txt` - Kullanılan şarkı verisi
+- `songs3.txt` - Kullanılan şarkı verisi
+- `songs4.txt` - Kullanılan şarkı verisi
+- `songs5.txt` - Kullanılan şarkı verisi
