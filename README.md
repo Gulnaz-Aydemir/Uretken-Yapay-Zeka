@@ -43,10 +43,9 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 1.  **Projeyi Klonlayın:**
     Öncelikle, projenin GitHub deposunu bilgisayarınıza klonlayın. Eğer projenin bir GitHub deposu varsa, aşağıdaki gibi bir komut kullanabilirsiniz (URL'yi kendi projenizin adresiyle değiştirmeyi unutmayın):
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/PROJE_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/PROJE_ADINIZ.git)
-    cd PROJE_ADINIZ
+    git clone https://github.com/Gulnaz-Aydemir/Uretken-Yapay-Zeka
+    cd Uretken-Yapay-Zeka
     ```
-    Eğer dosyalar zaten bilgisayarınızdaysa bu adımı atlayabilirsiniz.
 
 2.  **Gerekli Kütüphaneleri Yükleyin:**
     Projenin çalışabilmesi için Python 3.x ve Flask kütüphanesinin kurulu olması gerekmektedir. Eğer sisteminizde Flask kurulu değilse, terminal veya komut istemcisi üzerinden aşağıdaki komut ile yükleyebilirsiniz:
@@ -55,7 +54,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
     ```
 
 3.  **Uygulamayı Çalıştırın:**
-    Proje dosyalarının bulunduğu ana dizindeyken (yani `app.py` dosyasının olduğu yerde) aşağıdaki komutu terminalde veya komut istemcisinde çalıştırarak Flask geliştirme sunucusunu başlatın:
+    Proje dosyalarının bulunduğu ana dizindeyken aşağıdaki komutu terminalde veya komut istemcisinde çalıştırarak Flask geliştirme sunucusunu başlatın:
     ```bash
     python app.py
     ```
