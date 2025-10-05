@@ -1,4 +1,5 @@
-# 🎵 Şarkı Sözü Üretici
+# 🎵İlham Notası 
+Şarkı Sözü Üretici
 
 Bu proje, kullanıcıdan alınan bir **anahtar kelime** ile özgün şarkı sözleri üretebilen bir doğal dil işleme (NLP) uygulamasıdır. **Markov Zinciri** tabanlı bu sistem, sıfırdan geliştirilmiş olup herhangi bir dış API veya önceden eğitilmiş büyük modele bağımlı değildir.
 
